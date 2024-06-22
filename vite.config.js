@@ -9,7 +9,7 @@ export default defineConfig(async () => {
         targets: [
           {
             src: 'images/*',
-            dest: 'assets/images/'
+            dest: 'images/'
           }
         ]
       })
